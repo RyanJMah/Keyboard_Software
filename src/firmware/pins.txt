@@ -1,0 +1,18 @@
+To make the firmware more readable, here is the pinout of the MCU:
+  - row0 -> PC0
+  - row1 -> PC1
+  - row2 -> PC2
+  - row3 -> PC3
+  
+  - MRx -> PD0
+  - MTx -> PD1
+  
+  - col0 -> PD2
+  - col1 -> PD3
+  - col2 -> PD4
+  - col3 -> PD5
+  
+  - LED0 -> PB0
+  - LED1 -> PB1
+  - LED2 -> PB2
+  - LED3 -> PB6
